@@ -13,13 +13,13 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Rakibul Alam
 name: Rakibul Alam
 email: rakibulmdalam@gmail.com
 email_full: mailto:rakibulmdalam@gmail.com
-website: rakibulmdalam.me/vitae
-website_full: http://rakibulmdalam.me/vitae/
+website: rakibulmdalam.me/
+website_full: http://rakibulmdalam.me/
 tel: +44 0000 000000
 tel_full: tel:+440000000000
 # needed for travis-ci build
